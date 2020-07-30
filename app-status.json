@@ -1,0 +1,36 @@
+{
+   "data":[
+      {
+         "slno":"0",
+         "name":"Market data",
+         "status":"active",
+         "url":"null",
+         "desc":"null",
+         "apppackage":"com.techsite.marketdata"
+      },
+      {
+         "slno":"1",
+         "name":"Camarilla pivot",
+         "status":"active",
+         "url":"null",
+         "desc":"null",
+         "apppackage":"com.techsite.camarillapivot"
+      },
+      {
+         "slno":"2",
+         "name":"OHL Scanner",
+         "status":"aactive",
+         "url":"com.techsite.fibonaccilevels",
+         "desc":"null",
+         "apppackage":"com.techsite.highlowscanner"
+      },
+      {
+         "slno":"3",
+         "name":"Fibonacci levels & retrace",
+         "status":"active",
+         "url":"null",
+         "desc":"null",
+         "apppackage":"com.techsite.fibonaccilevels"
+      }
+   ]
+}
