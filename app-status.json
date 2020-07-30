@@ -18,8 +18,8 @@
 	{
 		"slno":"2",
 		"name":"OHL Scanner",
-		"status":"active",
-		"url": "null",
+		"status":"aactive",
+		"url": "com.techsite.fibonaccilevels",
 		"desc":"null",
 		"apppackage":"com.techsite.highlowscanner"
 	},
