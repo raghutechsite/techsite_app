@@ -31,6 +31,14 @@
          "url":"null",
          "desc":"null",
          "apppackage":"com.techsite.fibonaccilevels"
+      },
+      {
+         "slno":"4",
+         "name":"RANGE BREAKOUT",
+         "status":"aactive",
+         "url":"com.techsite.fibonaccilevels",
+         "desc":"null",
+         "apppackage":"com.techsite.Rangebreakout"
       }
    ]
 }
