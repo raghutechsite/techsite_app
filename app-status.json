@@ -27,8 +27,8 @@
       {
          "slno":"3",
          "name":"Fibonacci levels & retrace",
-         "status":"active",
-         "url":"null",
+         "status":"aactive",
+         "url":"com.techsite.Rangebreakout",
          "desc":"null",
          "apppackage":"com.techsite.fibonaccilevels"
       },
